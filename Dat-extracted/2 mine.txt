@@ -1,0 +1,5 @@
+Round 1:
+79/100 wins
+Total Gain from Wins=79×0.13=10.27
+Total Loss from Losses=21×1=21Total Loss from Losses=21×1=21
+Final Wallet=10+10.27−21=−0.73Final Wallet=10+10.27−21= −0.73

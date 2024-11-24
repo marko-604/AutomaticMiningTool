@@ -1,0 +1,6 @@
+Round 1:
+93/100 
+Total Gain from Wins=93×0.13=12.09
+Total Loss from Losses=7×1=7
+Final Wallet=10+12.09−7=		15.09
+
